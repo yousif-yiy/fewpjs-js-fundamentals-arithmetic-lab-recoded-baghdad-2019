@@ -4,9 +4,6 @@ const expect = chai.expect;
 describe('index.js', function() {
   describe('multiply', function() {
     it("is an equation whose multiplied results will equal 62", function() {
-      expect(num1).to.be.a('number')
-      expect(num2).to.be.a('number')
-      expect(multiply).to.eq(62)
     });
   });
   describe('random', function() {
